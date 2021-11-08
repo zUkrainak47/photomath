@@ -1,13 +1,13 @@
-#программа, решающая биномы ньютона
+#read README
 
 from math import factorial
 def c(n, k):
     return (factorial(n)/(factorial(k)*factorial(n-k)))
 
-print('Введите бином. Для инструкции по формату ввода введите 1')
+print('Input the Binom. For input instructions input 1.')
 binom = list(input().split())
 if binom == ['1']:
-    print('<слагаемое 1> <слагаемое 2> <степень возведения бинома>\nТеперь можете вводить бином')
+    print('<term 1> <term 2> <power>\nNow input the Binom')
     binom = list(input().split())
 
 a, b, n = binom
