@@ -154,3 +154,4 @@ elif task == "horner":
     print("Polynomial`s derivatives on x0:")
     for t in range(1, len(Table)):
         print(f'k={t}: {poly_derivative(Table, t)}')
+    print(f'f(k)(x0) = 0 ∀ k>{t}, k є N')
