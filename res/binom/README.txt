@@ -1,3 +1,5 @@
+edit: i just noticed that i kept typing "binom" instead of "binomial" for some reason.
+
 This is a program created for the purpose of trying to visualize the Newton's Binom.
 The Input takes two factors and the power of the binow, each separated by a space.
 The factors can be either a number (ex. "53"), one letter ("b"), a product of a number and a letter ("2b"), or a letter taken to a numeric power ("2b^3")
