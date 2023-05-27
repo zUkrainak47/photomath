@@ -1,9 +1,9 @@
 edit: i just noticed that i kept typing "binom" instead of "binomial" for some reason.
 
-This is a program created for the purpose of trying to visualize the Newton's Binom.
-The Input takes two factors and the power of the binow, each separated by a space.
+This is a program created for the purpose of trying to visualize Newton's Binomial.
+The Input takes two factors and the power of the binomial, each separated by a space.
 The factors can be either a number (ex. "53"), one letter ("b"), a product of a number and a letter ("2b"), or a letter taken to a numeric power ("2b^3")
-The Output begins with a rewritten version of the Input consisting of 2 lists (each containing the number, letter (if given) and power of the corresponding factor) and the power of the binom. The calculated binom is the end of the Output.
+The Output begins with a rewritten version of the Input consisting of 2 lists (each containing the number, letter (if given) and power of the corresponding factor) and the power of the binomial. The calculated binomial is the end of the Output.
 
 Ex #1
 Input: 
